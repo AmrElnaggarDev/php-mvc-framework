@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /website/demo/
+RewriteRule ^(.*)$ index.php [L]
